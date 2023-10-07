@@ -24,9 +24,11 @@ Here are some ideas to get you started:
   - 📫 How to reach me:
   </p>
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zoe-Ko&show_icons=true&theme=tokyonight)
-</div>
 
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Zoe-Ko&show_icons=true&theme=tokyonight">
+
+</div>
 <hr>
 
 <h3 align="left">Connect with me:</h3>
