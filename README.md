@@ -15,20 +15,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi~This+is+Zoe's+Github.)](https://git.io/typing-svg)
+
 <hr>
-
-<div>
-  <p style="font-family: TimesNewRoman;"> 
-  - I'm Zoe, major in Information Security Master degree at NCCU.
-  - I'm a Security Team Intern at Shopback.
-  - 📫 How to reach me:
-  </p>
-  
-
-
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Zoe-Ko&show_icons=true&theme=tokyonight">
 
-</div>
+
+  - &#128205; Taipei, Taiwan.
+  - 👩🏻‍💻 I'm Zoe, major in Information Security Master degree at NCCU.
+  - &#128188; I'm a Security Team Intern at Shopback.
+  - &#127841; brownie, matcha, waffle
+  - 🍵 Matcha latte with espresso lover.
+  - &#127907;&#127938;&#128131;
+  - 📫 zoe9011@gmail.com
+  
+  
+
 <hr>
 
 <h3 align="left">Connect with me:</h3>
