@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi~This+is+Zoe's+Github.)](https://git.io/typing-svg)
 
+<img src="https://scontent.frmq2-2.fna.fbcdn.net/v/t1.15752-9/387335364_800292825180676_4955036529407902468_n.png?_nc_cat=100&ccb=1-7&_nc_sid=ae9488&_nc_ohc=COrEUXXZM2AAX9DyeiJ&_nc_ht=scontent.frmq2-2.fna&oh=03_AdSaGIEKGTJ_ib-1py13-tOqKfGUsaFEV3N2sjdN-UEZhg&oe=6548E8F2">
 <hr>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Zoe-Ko&show_icons=true&theme=tokyonight">
 
