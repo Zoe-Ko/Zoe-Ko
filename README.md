@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi~This+is+Zoe's+Github.)](https://git.io/typing-svg)
 
-<img src="https://scontent.frmq2-2.fna.fbcdn.net/v/t1.15752-9/387335364_800292825180676_4955036529407902468_n.png?_nc_cat=100&ccb=1-7&_nc_sid=ae9488&_nc_ohc=COrEUXXZM2AAX9DyeiJ&_nc_ht=scontent.frmq2-2.fna&oh=03_AdSaGIEKGTJ_ib-1py13-tOqKfGUsaFEV3N2sjdN-UEZhg&oe=6548E8F2">
+<img src="[https://scontent.frmq2-2.fna.fbcdn.net/v/t1.15752-9/387335364_800292825180676_4955036529407902468_n.png?_nc_cat=100&ccb=1-7&_nc_sid=ae9488&_nc_ohc=COrEUXXZM2AAX9DyeiJ&_nc_ht=scontent.frmq2-2.fna&oh=03_AdSaGIEKGTJ_ib-1py13-tOqKfGUsaFEV3N2sjdN-UEZhg&oe=6548E8F2](https://scontent-tpe1-1.xx.fbcdn.net/v/t1.15752-9/387550546_847737806727938_6880747523716406034_n.png?_nc_cat=108&ccb=1-7&_nc_sid=ae9488&_nc_ohc=fKyVimh0Q70AX97VYr3&_nc_ht=scontent-tpe1-1.xx&oh=03_AdSLdo_nSWKYySyUUlyEPH6YEWYkiqeiKEGCRu1Fs2W0kQ&oe=6548E760)">
 <hr>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Zoe-Ko&show_icons=true&theme=tokyonight">
 
@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/yung-rou (zoe ke) ko 柯詠媃" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yung-rou (zoe ke) ko 柯詠媃" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/yung-rou-ko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yung-rou (zoe ke) ko 柯詠媃" height="30" width="40" /></a>
 <a href="https://instagram.com/zoeke9011" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zoeke9011" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/zoe ke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="zoe ke" height="30" width="40" /></a>
 </p>
