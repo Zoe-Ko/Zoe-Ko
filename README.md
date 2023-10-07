@@ -26,6 +26,7 @@ Here are some ideas to get you started:
   - &#127841; brownie, matcha, waffle
   - 🍵 Matcha latte with espresso lover.
   - &#127907;&#127938;&#128131;
+  - &#128218; I published a blockchain book：<a href="https://www.books.com.tw/products/0010942514">前進元宇宙！區塊鏈輕旅行：每天5分鐘，學會比特幣×以太坊×NFT概念及應用（iThome鐵人賽系列書）</a>
   - 📫 zoe9011@gmail.com
   
   
