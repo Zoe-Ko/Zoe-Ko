@@ -14,10 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi~This+is+Zoe's+Github.)](https://git.io/typing-svg)
 
-<img src="[https://scontent.frmq2-2.fna.fbcdn.net/v/t1.15752-9/387335364_800292825180676_4955036529407902468_n.png?_nc_cat=100&ccb=1-7&_nc_sid=ae9488&_nc_ohc=COrEUXXZM2AAX9DyeiJ&_nc_ht=scontent.frmq2-2.fna&oh=03_AdSaGIEKGTJ_ib-1py13-tOqKfGUsaFEV3N2sjdN-UEZhg&oe=6548E8F2](https://scontent-tpe1-1.xx.fbcdn.net/v/t1.15752-9/387550546_847737806727938_6880747523716406034_n.png?_nc_cat=108&ccb=1-7&_nc_sid=ae9488&_nc_ohc=fKyVimh0Q70AX97VYr3&_nc_ht=scontent-tpe1-1.xx&oh=03_AdSLdo_nSWKYySyUUlyEPH6YEWYkiqeiKEGCRu1Fs2W0kQ&oe=6548E760)">
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi~This+is+Zoe's+Github(*´∀`)~♥.)](https://git.io/typing-svg)
+
+<img src="https://scontent-tpe1-1.xx.fbcdn.net/v/t1.15752-9/387550546_847737806727938_6880747523716406034_n.png?_nc_cat=108&ccb=1-7&_nc_sid=ae9488&_nc_ohc=fKyVimh0Q70AX97VYr3&_nc_ht=scontent-tpe1-1.xx&oh=03_AdSLdo_nSWKYySyUUlyEPH6YEWYkiqeiKEGCRu1Fs2W0kQ&oe=6548E760">
+
 <hr>
+
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Zoe-Ko&show_icons=true&theme=tokyonight">
 
 
